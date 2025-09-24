@@ -16,5 +16,5 @@ let zwei = 0
 let drei = 0
 let eins = 0
 eins = 1
-drei = 2
-zwei = 3
+drei = 5
+zwei = 6
